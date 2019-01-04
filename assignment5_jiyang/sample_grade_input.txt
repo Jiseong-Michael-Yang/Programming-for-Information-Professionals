@@ -1,0 +1,42 @@
+GRAD
+Old Jane
+76
+GRAD
+Old David
+83
+GRAD
+Old Anne
+97
+GRAD
+Old John
+67
+GRAD
+Old Peter
+37
+GRAD
+Old Beth
+81
+GRAD
+Old Alice
+89
+UNDERGRAD
+Young Jane
+81
+UNDERGRAD
+Young David
+71
+UNDERGRAD
+Young Anne
+67
+UNDERGRAD
+Young John
+99
+UNDERGRAD
+Young Peter
+45
+UNDERGRAD
+Young Beth
+91
+UNDERGRAD
+Young Alice
+63
