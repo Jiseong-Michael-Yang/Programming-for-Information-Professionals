@@ -1,5 +1,6 @@
 # Programming for Information Professionals (INLS 560)
-A set of projects assigned in Programming for Information Professionals at University of North Carolina at Chapel Hill (Spring 2018). The detailed instruction of the assignments can be found in "INLS 560_ Programming for Information Professionals.html".
+ * A set of projects assigned in Programming for Information Professionals at University of North Carolina at Chapel Hill (Spring 2018).
+ * The detailed instruction of the assignments can be found in "INLS 560_ Programming for Information Professionals.html".
 
 ## Assignment 1: Hello World!
   * Assingment Description
