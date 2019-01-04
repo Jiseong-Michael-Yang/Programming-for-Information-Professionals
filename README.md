@@ -5,7 +5,6 @@
 ## Assignment 1: Hello World!
   * Assingment Description
     * Print out the string "Hello, World" successfully. 
-  * Instructions can be found [here](https://ils.unc.edu/courses/2018_spring/inls560_001/a/1)
 
 ## Assignment 2: Compound Interest
   * Assingment Description
